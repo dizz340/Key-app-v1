@@ -11,6 +11,6 @@
         "username": "DIO",
         "password": "DIO12",
         "expirydate": "15-06-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
